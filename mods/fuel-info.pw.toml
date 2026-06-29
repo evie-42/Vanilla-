@@ -1,0 +1,13 @@
+name = "FuelInfo"
+filename = "fuelinfo-fabric-3.0.0+26.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/J1ueTDcI/versions/RsKpvlSf/fuelinfo-fabric-3.0.0%2B26.2.jar"
+hash-format = "sha512"
+hash = "ab65a8d08fa9285810343b4033c0fcfa20fc854f459862d5b2a3016cbea2678735de9f4723c39d2eb70229b69294858c5d9b247688030623d734caedb74f69a8"
+
+[update]
+[update.modrinth]
+mod-id = "J1ueTDcI"
+version = "RsKpvlSf"

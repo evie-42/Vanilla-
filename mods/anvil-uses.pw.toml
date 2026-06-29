@@ -1,0 +1,13 @@
+name = "Anvil Uses"
+filename = "anviluses-26.1+.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/sSulVw0M/versions/6VJq1CM3/anviluses-26.1%2B.jar"
+hash-format = "sha512"
+hash = "82bc226a676005fdd68882e3d774b01ca0a9a88c0dc14225c451595830bda0bf1459aab798b652c905513154c6fa59a666e8bd2cd8739c849f1195056a8125dc"
+
+[update]
+[update.modrinth]
+mod-id = "sSulVw0M"
+version = "6VJq1CM3"

@@ -1,0 +1,13 @@
+name = "Client Maps"
+filename = "client_maps-1.3.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/K7BL4mb2/versions/DN62FwPX/client_maps-1.3.3.jar"
+hash-format = "sha512"
+hash = "f8e3be51b13bd49f72965363158ea850959ae82802b420151f68cb511f7cece0bf20c97bf94142380b3e92c8beded75ec2248dec2bfda83d1b6ad3c52fc89179"
+
+[update]
+[update.modrinth]
+mod-id = "K7BL4mb2"
+version = "DN62FwPX"

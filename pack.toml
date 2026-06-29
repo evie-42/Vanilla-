@@ -1,0 +1,13 @@
+name = "Vanilla+"
+author = "GLD"
+version = "26.2"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "39ecb9a29274f29024bbbf11acceabda157d2c3225d32f2553d3f1cdf0eadf46"
+
+[versions]
+fabric = "0.19.3"
+minecraft = "26.2"
